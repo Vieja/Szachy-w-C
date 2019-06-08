@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1492785106 source:c:\users\vieja\desktop\szachy\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"Menu.h"
+	"Allegro.h"
+
+1492646801 source:c:\users\vieja\desktop\backup_szachy.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1492866627 source:c:\users\vieja\desktop\szachy\menu.cpp
+	"Menu.h"
+	"Allegro.h"
+
+1492770116 c:\users\vieja\desktop\szachy\menu.h
+
+1492770806 source:c:\users\vieja\desktop\szachy\allegro.cpp
+	"Allegro.h"
+	"Menu.h"
+
+1492770744 c:\users\vieja\desktop\szachy\allegro.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1492770806 source:d:\moje dokumenty\documents\codeblocks\c++\szachy\allegro.cpp
+	"Allegro.h"
+	"Menu.h"
+
+1492770744 d:\moje dokumenty\documents\codeblocks\c++\szachy\allegro.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1492770116 d:\moje dokumenty\documents\codeblocks\c++\szachy\menu.h
+
+1492785106 source:d:\moje dokumenty\documents\codeblocks\c++\szachy\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"Menu.h"
+	"Allegro.h"
+
+1492866627 source:d:\moje dokumenty\documents\codeblocks\c++\szachy\menu.cpp
+	"Menu.h"
+	"Allegro.h"
+
+1492770806 source:d:\pliki\documents\codeblocks\c++\szachy\allegro.cpp
+	"Allegro.h"
+	"Menu.h"
+
+1492770744 d:\pliki\documents\codeblocks\c++\szachy\allegro.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1492770116 d:\pliki\documents\codeblocks\c++\szachy\menu.h
+
+1492785106 source:d:\pliki\documents\codeblocks\c++\szachy\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"Menu.h"
+	"Allegro.h"
+
+1492866627 source:d:\pliki\documents\codeblocks\c++\szachy\menu.cpp
+	"Menu.h"
+	"Allegro.h"
+
